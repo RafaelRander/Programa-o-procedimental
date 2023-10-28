@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1695516203 source:c:\users\rafael\documents\programação em c\aplicacaodegrafos\main.c
+	<stdio.h>
+	"grafo.h"
+	"leitura.h"
+
+1695517388 c:\users\rafael\documents\programação em c\aplicacaodegrafos\grafo.h
+	<stdbool.h>
+
+1695500449 c:\users\rafael\documents\programação em c\aplicacaodegrafos\leitura.h
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1693517294 source:c:\users\rafael\documents\programação em c\bublesort\main.c
+	<stdio.h>
+	<stdlib.h>
+

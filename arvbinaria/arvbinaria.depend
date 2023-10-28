@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1660565793 source:c:\users\rafael\documents\programação em c\arvbinaria\main.c
+	<stdio.h>
+	<stdlib.h>
+
